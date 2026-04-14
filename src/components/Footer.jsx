@@ -19,7 +19,8 @@ const Footer = () => {
             <img src={Logo} alt="Grewox Logo" className="h-10 w-auto" />
           </Link>
           <p className="text-gray-600 text-sm leading-relaxed">
-            Empowering businesses with cutting-edge IT solutions. We specialze in Web, Mobile, and CRM development with a focus on innovation.
+            Empowering businesses with cutting-edge IT solutions. We specialize in Web, Mobile,
+            and CRM development with a focus on innovation.
           </p>
           <div className="flex gap-4">
             <a
